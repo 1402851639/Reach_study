@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.rsh": "javascript"
+    },
+    "reachide.executableLocation": "~/reach/tut"
+}
